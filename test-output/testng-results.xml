@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-28T17:24:08 IST" name="Default suite" finished-at="2024-08-28T17:30:09 IST" duration-ms="361361">
+    <groups>
+    </groups>
+    <test started-at="2024-08-28T17:24:08 IST" name="Default test" finished-at="2024-08-28T17:30:09 IST" duration-ms="361361">
+      <class name="Test_package.page_test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:24:08 IST" name="setUp" finished-at="2024-08-28T17:24:18 IST" duration-ms="10054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="home_page_test()[pri:1, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:24:18 IST" name="home_page_test" finished-at="2024-08-28T17:24:33 IST" duration-ms="14749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_page_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:24:33 IST" name="tearDown" finished-at="2024-08-28T17:24:34 IST" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:24:34 IST" name="setUp" finished-at="2024-08-28T17:24:51 IST" duration-ms="16921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="module_element_page_test()[pri:2, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:24:51 IST" name="module_element_page_test" finished-at="2024-08-28T17:26:58 IST" duration-ms="127611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module_element_page_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:26:58 IST" name="tearDown" finished-at="2024-08-28T17:26:59 IST" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:26:59 IST" name="setUp" finished-at="2024-08-28T17:27:07 IST" duration-ms="7965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="module_forms_page_test()[pri:3, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:27:07 IST" name="module_forms_page_test" finished-at="2024-08-28T17:27:24 IST" duration-ms="16836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module_forms_page_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:27:24 IST" name="tearDown" finished-at="2024-08-28T17:27:24 IST" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:27:24 IST" name="setUp" finished-at="2024-08-28T17:27:31 IST" duration-ms="6509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="module_Alerts_frames_window_page_test()[pri:4, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:27:31 IST" name="module_Alerts_frames_window_page_test" finished-at="2024-08-28T17:28:08 IST" duration-ms="37011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module_Alerts_frames_window_page_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:28:08 IST" name="tearDown" finished-at="2024-08-28T17:28:08 IST" duration-ms="535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:28:08 IST" name="setUp" finished-at="2024-08-28T17:28:16 IST" duration-ms="7821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="module_widget_page_test()[pri:5, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:28:16 IST" name="module_widget_page_test" finished-at="2024-08-28T17:28:56 IST" duration-ms="39756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module_widget_page_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:28:56 IST" name="tearDown" finished-at="2024-08-28T17:28:57 IST" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:28:57 IST" name="setUp" finished-at="2024-08-28T17:29:04 IST" duration-ms="6984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="module_INTERACTION_page_test()[pri:6, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:29:04 IST" name="module_INTERACTION_page_test" finished-at="2024-08-28T17:29:11 IST" duration-ms="7726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module_INTERACTION_page_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:29:11 IST" name="tearDown" finished-at="2024-08-28T17:29:12 IST" duration-ms="604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:29:12 IST" name="setUp" finished-at="2024-08-28T17:29:36 IST" duration-ms="24052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MODULE_Book_Store_Application()[pri:7, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:29:36 IST" name="MODULE_Book_Store_Application" finished-at="2024-08-28T17:30:08 IST" duration-ms="32321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MODULE_Book_Store_Application -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_package.page_test@54c5a2ff]" started-at="2024-08-28T17:30:08 IST" name="tearDown" finished-at="2024-08-28T17:30:09 IST" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_package.page_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
